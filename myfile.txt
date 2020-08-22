@@ -24,4 +24,5 @@ Git collaboration with GitHub
 
 - changes from my PC before getting GitHub changes
 - changes
+- Some more changes from github
 
