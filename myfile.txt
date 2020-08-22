@@ -1,7 +1,7 @@
-This is my first line in my git tracked file.
-Second change
+Git Introduction
+
 Agenda today:
-1. collaborating with GitHub
+1. Collaborating with GitHub
 
 …or create a new repository on the command line
 echo "# gitproject" >> README.md
@@ -17,3 +17,6 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+Git collaboration with GitHub
+- git push
+- git set upstream origin master
